@@ -173,7 +173,7 @@ ggplot(
     scale_fill_brewer(palette="Pastel1")
 ```
 
-![](./Report_files/figure-html/unnamed-chunk-4-1.png) 
+![](./Report_files/figure-html/unnamed-chunk-3-1.png) 
 
 ### Economic Consequences
 
@@ -205,5 +205,5 @@ ggplot(
     scale_fill_brewer(palette="Pastel1")
 ```
 
-![](./Report_files/figure-html/unnamed-chunk-5-1.png) 
+![](./Report_files/figure-html/unnamed-chunk-4-1.png) 
 
